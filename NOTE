@@ -1,0 +1,1 @@
+-Dhttps.protocols=TLSv1 -Djdk.tls.client.protocols=TLSv1 -Djsse.enableSNIExtension=false
